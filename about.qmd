@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+To learn more about me, browse through this website or visit my LinkedIn profile [www.linkedin.com/in/michellele2002](https://www.linkedin.com/in/michellele2002/)
 
-```{r}
-1 + 1
-```
+![](pictureevogen.jpg){width="203"}

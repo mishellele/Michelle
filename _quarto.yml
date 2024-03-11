@@ -9,6 +9,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Labs.qmd
+        text: Labs
+      - href: Projects.qmd
+        text: Projects
+      - href: Presentations.qmd
+        text: Presentations
+        
+      
 
 format:
   html:

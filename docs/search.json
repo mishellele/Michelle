@@ -4,13 +4,41 @@
     "href": "index.html",
     "title": "quarto5",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website created by Michelle Le"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "To learn more about me, browse through this website or visit my LinkedIn profile www.linkedin.com/in/michellele2002"
+  },
+  {
+    "objectID": "Presentations.html",
+    "href": "Presentations.html",
+    "title": "About",
+    "section": "",
+    "text": "What my presentations are about"
+  },
+  {
+    "objectID": "Labs.html",
+    "href": "Labs.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "About",
+    "section": "",
+    "text": "Projects I’ve done so far"
+  },
+  {
+    "objectID": "Home.html",
+    "href": "Home.html",
+    "title": "About",
+    "section": "",
+    "text": "Home page"
   }
 ]
