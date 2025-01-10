@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home Page",
-    "section": "",
-    "text": "Hi, I’m Michelle Le and welcome to my personal website. I’ve created this website through coding skills I’ve honed during two semesters of bioinformatics at my alma mater, UMass Amherst. No, my major wasn’t in computer science if that’s what you’re wondering. I currently have a B.S in biology, but I choose to code on the side as a fun little hobby. Click here to learn more about me."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,11 +7,11 @@
     "text": "To learn more about me, browse through this website or visit my LinkedIn profile (I don’t often update my linkedin…) www.linkedin.com/in/michellele2002"
   },
   {
-    "objectID": "Presentations.html",
-    "href": "Presentations.html",
+    "objectID": "Projects.html",
+    "href": "Projects.html",
     "title": "About",
     "section": "",
-    "text": "What my presentations are about"
+    "text": "Projects I’ve done so far"
   },
   {
     "objectID": "Labs.html",
@@ -28,11 +21,18 @@
     "text": "About my labs"
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
+    "objectID": "Presentations.html",
+    "href": "Presentations.html",
     "title": "About",
     "section": "",
-    "text": "Projects I’ve done so far"
+    "text": "What my presentations are about"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home Page",
+    "section": "",
+    "text": "Hi, I’m Michelle Le and welcome to my personal website. I’ve created this website through coding skills I’ve honed during two semesters of bioinformatics at my alma mater, UMass Amherst. No, my major wasn’t in computer science if that’s what you’re wondering. I currently have a B.S in biology, but I choose to code on the side as a fun little hobby. Click here to learn more about me."
   },
   {
     "objectID": "Home.html",
