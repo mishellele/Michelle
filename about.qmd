@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-I've created this website through coding skills I've honed during two semesters of bioinformatics at my alma mater, UMass Amherst. No, my major wasn't in computer science if that's what you're wondering. I currently have a B.S in biology, but I choose to code on the side, as I find it entertaining.
-
 To learn more about me, browse through this website or visit my LinkedIn profile (I don't often update my linkedin...) [www.linkedin.com/in/michellele2002](https://www.linkedin.com/in/michellele2002/)
 
 ![](pictureevogen.jpg){width="203"}
