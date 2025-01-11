@@ -2,7 +2,8 @@ project:
   type: website
   output-dir: docs
 
-site-url: qu
+site-url: https://mishellele.github.io/Michelle
+base-url: /my-quarto-site/
 
 website:
   title: "Michelle Le"
