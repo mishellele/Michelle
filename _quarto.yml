@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+site-url: https://mishellele.github.io/Michelle
+base-url: /Michelle/
+
 website:
   title: "Michelle Le"
   navbar:
@@ -17,15 +20,12 @@ website:
       - href: Presentations.qmd
         text: Presentations
 
-        
-      
 
 format:
   html:
     theme: pulse
     css: styles.css
     toc: true
-    embed-resources: true
 
 editor: visual
 
