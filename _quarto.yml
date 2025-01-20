@@ -24,7 +24,7 @@ website:
 format:
   html:
     theme: pulse
-    css: styles.css
+    css: docs/styles.css
     toc: true
 
 editor: visual
