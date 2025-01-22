@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home Page",
+    "title": "Welcome",
     "section": "",
-    "text": "Hi, I’m Michelle Le and welcome to my personal website. I’ve created this website through coding skills I’ve honed during two semesters of bioinformatics at my Alma mater, UMass Amherst. No, my major wasn’t in computer science if that’s what you’re wondering. I currently have a B.S in biology, but I choose to code on the side as a fun little hobby. Click here to learn more about me."
+    "text": "Hi, I’m Michelle Le and welcome to my personal website: A space where I document my life for the purpose of my own entertainment. I’ve created this website through coding skills I’ve honed during two semesters of bioinformatics at my Alma mater, UMass Amherst. No, my major wasn’t in computer science if that’s what you’re wondering. I currently have a B.S in biology, but I choose to code on the side as a fun little hobby. Actually, I have many hobbies that interest me and you can click here to find out what they are.\nClick here to learn more about me."
   },
   {
     "objectID": "Home.html",
@@ -40,5 +40,12 @@
     "title": "About",
     "section": "",
     "text": "Home page"
+  },
+  {
+    "objectID": "Hobbies.html",
+    "href": "Hobbies.html",
+    "title": "About",
+    "section": "",
+    "text": "Projects I’ve done so far"
   }
 ]

@@ -15,8 +15,8 @@ website:
         text: About
       - href: Labs.qmd
         text: Labs
-      - href: Projects.qmd
-        text: Projects
+      - href: Hobbies.qmd
+        text: Hobbies
       - href: Presentations.qmd
         text: Presentations
 
