@@ -13,18 +13,22 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: Labs.qmd
-        text: Labs
+      - href: education.qmd
+        text: Education
+      - href: experience.qmd
+        text: Experience
       - href: Hobbies.qmd
         text: Hobbies
       - href: Presentations.qmd
         text: Presentations
+      - href: blog/index.qmd
+        text: Blog
 
 
 format:
   html:
     theme: pulse
-    css: docs/styles.css
+    css: styles.css
     toc: true
 
 editor: visual

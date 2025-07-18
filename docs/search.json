@@ -2,14 +2,14 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Autobiography",
+    "title": "Autobiography (unfinished)",
     "section": "",
-    "text": "Where I’m From\nI grew up in a town on the outskirts of Boston, MA. If you look at a map, you’ll see this town just south of Boston labelled as ‘Randolph’. But if you ask me, I’d simply call it home. Born in Boston and raised in Randolph, I like to say I’m a proud Massachusetts local…until I attended UMass Amherst that I truly discovered the existence of Western Mass.\nDuring college people often asked, “Where are you from?”. For a while, I’d respond with “Boston” because lets be honest, no one outside of Massachusetts knows where Randolph is. But over time, I found myself answering “Randolph,” realizing that overlooking the town I was raised in felt like overlooking a core part of my identity.\n\n\nRandolph Public Schools\nFor me, Randolph Public Schools (RPS) were more than just a place for education—it introduced me to different cultures I hadn’t known existed beyond my own. Growing up in a town as diverse as Randolph meant that everyone was different, including me, and somehow that made fitting in easier; the similarities each culture holds made us feel more connected than disconnected. It wasn’t until I got to college, where I found myself in a predominantly white space for the first time, that I realized how special my upbringing was. For the first time, I stood out in a way that felt unfamiliar.\nI don’t often update my linkedin… www.linkedin.com/in/michellele2002"
+    "text": "I grew up in a town on the outskirts of Boston, MA. If you look at a map, you’ll see this town just south of Boston labelled as ‘Randolph’. But if you ask me, I’d simply call it home. Born in Boston and raised in Randolph, I like to say I’m a proud Massachusetts local…until I attended UMass Amherst that I truly discovered the existence of Western Mass.\nDuring college people often asked, “Where are you from?”. For a while, I’d respond with “Boston” because lets be honest, no one outside of Massachusetts knows where Randolph is. But over time, I found myself answering “Randolph,” realizing that overlooking the town I was raised in felt like dismissing a core part of my identity."
   },
   {
     "objectID": "Home.html",
     "href": "Home.html",
-    "title": "About",
+    "title": "About (unfinished)",
     "section": "",
     "text": "Home page"
   },
@@ -23,22 +23,50 @@
   {
     "objectID": "Presentations.html",
     "href": "Presentations.html",
-    "title": "About",
+    "title": "About (unfinished)",
     "section": "",
     "text": "What my presentations are about"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Welcome (unfinished)",
     "section": "",
     "text": "Hi, I’m Michelle Le and welcome to my personal website: A space where I document my life for the purpose of my own entertainment. I’ve created this website through coding skills I’ve honed during two semesters of bioinformatics at my Alma mater, UMass Amherst. No, my major wasn’t in computer science if that’s what you’re wondering. I currently have a B.S in biology, but I choose to code on the side as a fun little hobby. Actually, I have many hobbies that interest me and you can click here to find out what they are.\nClick here to learn more about me."
   },
   {
     "objectID": "Hobbies.html",
     "href": "Hobbies.html",
-    "title": "Hobbies as of (1/22/25)",
+    "title": "Hobbies as of (1/22/25) (unfinished)",
     "section": "",
-    "text": "The hobbies aren’t listed in any particular order of when I started them if you’re wondering. Just a collective list of interests I’ve done during my free time."
+    "text": "The hobbies aren’t listed in any particular order of when I started them if you’re wondering. Just a collective list of interests I’ve done during my free time. (unfinished)"
+  },
+  {
+    "objectID": "about.html#where-im-from",
+    "href": "about.html#where-im-from",
+    "title": "Autobiography (unfinished)",
+    "section": "",
+    "text": "I grew up in a town on the outskirts of Boston, MA. If you look at a map, you’ll see this town just south of Boston labelled as ‘Randolph’. But if you ask me, I’d simply call it home. Born in Boston and raised in Randolph, I like to say I’m a proud Massachusetts local…until I attended UMass Amherst that I truly discovered the existence of Western Mass.\nDuring college people often asked, “Where are you from?”. For a while, I’d respond with “Boston” because lets be honest, no one outside of Massachusetts knows where Randolph is. But over time, I found myself answering “Randolph,” realizing that overlooking the town I was raised in felt like dismissing a core part of my identity."
+  },
+  {
+    "objectID": "about.html#randolph-public-schools",
+    "href": "about.html#randolph-public-schools",
+    "title": "Autobiography (unfinished)",
+    "section": "Randolph Public Schools",
+    "text": "Randolph Public Schools\nFor me, Randolph Public Schools (RPS) were more than just a place for education—it introduced me to different cultures I hadn’t known existed beyond my own. Growing up in a town as diverse as Randolph meant that everyone was different, including me, and somehow that made fitting in easier; the similarities each culture holds made us feel more connected than disconnected. It wasn’t until I got to college, where I found myself in a predominantly white space for the first time, that I realized how special my upbringing was. For the first time, I stood out in a way that felt unfamiliar.\nI don’t often update my linkedin… www.linkedin.com/in/michellele2002"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "About my labs"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog (unfinished)",
+    "section": "",
+    "text": "Welcome to my blog! Here you’ll find posts on a variety of topics."
   }
 ]

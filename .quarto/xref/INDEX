@@ -19,5 +19,14 @@
   },
   "Hobbies.qmd": {
     "Hobbies.html": "8fee4d1a"
+  },
+  "education.qmd": {
+    "education.html": "105b67ea"
+  },
+  "experience.qmd": {
+    "experience.html": "de75b207"
+  },
+  "blog/index.qmd": {
+    "index.html": "159a7b11"
   }
 }
